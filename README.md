@@ -14,11 +14,10 @@
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-Welcome to my GitHub! I am an aspiring software enginner with a background in teaching. Part of teaching is being a lifelong learner, being passionate and looking at problems in a variety of ways to come up with creative and effective solutions. I bring those same qualities to my coding along with experience in creating strong relationships with others. Please reach out if you'd like to work on any projects together, have advice or suggestions or want to know about me.   
+Welcome to my GitHub! I am a full-stack software enginner with a background in teaching. Part of teaching is being a lifelong learner, being passionate and looking at problems in a variety of ways to come up with creative and effective solutions. I bring those same qualities to my coding along with experience in creating strong relationships with others. Please reach out if you'd like to work on any projects together or want to know more about me.   
 
 
-- 🌱 I’m currently learning Ruby on Rails.
-- 🤔 I’m looking for help with developing a career in tech. 
+- 🌱 I’m currently building full-stack applications with Ruby on Rails that are scalable, performant and accessible. 
 - 📫 How to reach me: jenniferannvancura@gmail.com
 - ⚡ Fun fact: I am ultrarunner and have run several races over the marathon distance! 
 
