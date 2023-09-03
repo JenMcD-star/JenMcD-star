@@ -13,6 +13,7 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Welcome to my GitHub! I am a full-stack software enginner with a background in teaching. Part of teaching is being a lifelong learner, being passionate and looking at problems in a variety of ways to come up with creative and effective solutions. I bring those same qualities to my coding along with experience in creating strong relationships with others. Please reach out if you'd like to work on any projects together or want to know more about me.   
 
