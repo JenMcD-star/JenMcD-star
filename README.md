@@ -28,7 +28,4 @@ Welcome to my GitHub! I am a full-stack software enginner with a background in t
 
  </p>
 
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=JenMcD-star">
-  
-</p>
+
