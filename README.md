@@ -1,4 +1,4 @@
-![Jennifer McDougall Software Engineer banner](https://i.pinimg.com/originals/90/69/13/9069132feb25230c4b6b523678c01c11.png)
+
 
 ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,9 +23,6 @@ Welcome to my GitHub! I am a full-stack software enginner with a background in t
 - ⚡ Fun fact: I am ultrarunner and have run several races over the marathon distance! 
 
 
-<p align="center">
- <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenMcD-star">
 
- </p>
 
 
