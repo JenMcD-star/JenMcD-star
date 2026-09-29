@@ -18,9 +18,8 @@
 Welcome to my GitHub! I am a full-stack software enginner with a background in teaching. Part of teaching is being a lifelong learner, being passionate and looking at problems in a variety of ways to come up with creative and effective solutions. I bring those same qualities to my coding along with experience in creating strong relationships with others. Please reach out if you'd like to work on any projects together or want to know more about me.   
 
 
-- 🌱 I’m currently building full-stack applications with Ruby on Rails that are scalable, performant and accessible. 
 - 📫 How to reach me: jenniferannvancura@gmail.com
-- ⚡ Fun fact: I am ultrarunner and have run several races over the marathon distance! 
+- ⚡ Fun fact: I am ultrarunner and have run several 100 mile races! 
 
 
 
